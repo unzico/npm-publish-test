@@ -1,6 +1,6 @@
 {
   "name": "unzico-npm-publish-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A NodeJS starter kit using TypeScript and Prettier.",
   "author": "Florian Unzicker <unzico@gmail.com>",
   "license": "MIT",
