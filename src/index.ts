@@ -1,1 +1,3 @@
-console.log("Your code here.");
+const myString = "Your code here.";
+
+console.log(myString);
