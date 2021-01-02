@@ -26,6 +26,8 @@
   "files": [
     "build/**/*"
   ],
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
   "devDependencies": {
     "@babel/cli": "7.12.10",
     "@babel/core": "7.12.10",
