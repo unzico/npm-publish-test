@@ -1,0 +1,13 @@
+# build, dist
+/build/
+/dist/
+
+# dependencies
+/node_modules/
+
+# environment
+.env
+
+# lock files
+yarn.lock
+package-lock.json
